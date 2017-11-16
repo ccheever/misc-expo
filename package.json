@@ -1,0 +1,16 @@
+{
+  "name": "misc-expo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccheever/misc-expo.git",
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "rethinkdbdash": "^2.3.31",
+    "semver": "^5.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-expo": "^4.0.0"
+  }
+}
